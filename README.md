@@ -1,10 +1,10 @@
-```markdown
+
 ## Binhound
 
-![Preview](./privew.jpg)
+![Preview](privew.jpg)
 
 Binary analysis library for Termux, Linux, macOS, Windows.
-```
+
 ## Install
 
 ```bash
